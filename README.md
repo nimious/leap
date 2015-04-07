@@ -6,7 +6,7 @@ Nim bindings for the Leap Motion SDK.
 
 ## About
 
-io-leap contains binding to the Leap Motion SDK for the
+io-leap contains bindings to the Leap Motion SDK for the
 [Nim](http://nim-lang.org) programming language. Leap Motion provides 3D
 tracking devices for natural user input.
 
