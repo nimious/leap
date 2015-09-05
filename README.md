@@ -35,8 +35,8 @@ it may already have pre-compiled binaries for both the drivers and the SDK. For
 example, on ArchLinux they are available in the AUR repository:
 
 ```
-yaourt leap-motion-driver`
-yaourt leap-motion-sdk`
+yaourt leap-motion-driver
+yaourt leap-motion-sdk
 ```
 
 Make sure to verify the available version numbers as they may be outdated. It is
