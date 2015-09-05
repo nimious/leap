@@ -1,4 +1,4 @@
-# io-spacenav
+# io-leap
 
 Nim bindings for the Leap Motion SDK.
 ![io-leap Logo](logo.png)
@@ -34,8 +34,10 @@ If your Linux distribution includes a package manager or community repository,
 it may already have pre-compiled binaries for both the drivers and the SDK. For
 example, on ArchLinux they are available in the AUR repository:
 
-`yaourt leap-motion-driver`
-`yaourt leap-motion-sdk`
+```
+yaourt leap-motion-driver`
+yaourt leap-motion-sdk`
+```
 
 Make sure to verify the available version numbers as they may be outdated. It is
 then preferable to download and install the software directly from the Leap
