@@ -1,20 +1,20 @@
-# io-leap
+# leap
 
 Nim bindings for the Leap Motion SDK.
-![io-leap Logo](logo.png)
+![leap Logo](docs/logo.png)
 
 
 ## About
 
-io-leap contains bindings to the Leap Motion SDK for the
+This package contains bindings to the Leap Motion SDK for the
 [Nim](http://nim-lang.org) programming language. Leap Motion provides 3D
 tracking devices for natural user input.
 
 
 ## Supported Platforms
 
-io-leap was last built and tested with **Leap SDK 2.2.2**. The bindings in this
-package currently support the following platforms:
+This package was last built and tested with **Leap SDK 2.2.2**. The bindings in
+this package currently support the following platforms:
 
 - ~~Linux~~
 - ~~Mac OSX~~
@@ -54,7 +54,7 @@ TODO
 
 ## Dependencies
 
-io-leap does not have any dependencies to other Nim packages at this time.
+This package does not have any dependencies to other Nim packages at this time.
 
 
 ## Usage
@@ -69,8 +69,8 @@ import leap
 
 ## Support
 
-Please [file an issue](https://github.com/nimious/io-leap/issues), submit a
-[pull request](https://github.com/nimious/io-leap/pulls?q=is%3Aopen+is%3Apr)
+Please [file an issue](https://github.com/nimious/leap/issues), submit a
+[pull request](https://github.com/nimious/leap/pulls?q=is%3Aopen+is%3Apr)
 or email us at info@nimio.us if this package is out of date or contains bugs.
 For issues related to input devices or the device driver software visit the
 Leap Motion web sites below.
